@@ -136,35 +136,35 @@ Order Confirmation
 
 | ID    | Business Requirement                                        |
 | ----- | ----------------------------------------------------------- |
-| BR-01 | Reduce checkout abandonment and improve checkout completion |
-| BR-02 | Enable customers to complete checkout as guests             |
-| BR-03 | Display shipping charges before payment                     |
-| BR-04 | Reduce payment-related checkout failures                    |
-| BR-05 | Simplify the checkout process                               |
+| 01 | Reduce checkout abandonment and improve checkout completion |
+| 02 | Enable customers to complete checkout as guests             |
+| 03 | Display shipping charges before payment                     |
+| 04 | Reduce payment-related checkout failures                    |
+| 05 | Simplify the checkout process                               |
 
 ## Key User Stories
 
-### US-01 - Guest Checkout
+### 01 - Guest Checkout
 
 As a customer, I want to complete my purchase without creating an account so that I can checkout quickly.
 
-### US-02 - Delivery Address
+### 02 - Delivery Address
 
 As a customer, I want to enter and edit my delivery address so that my order is delivered to the correct location.
 
-### US-03 - Shipping Charges
+### 03 - Shipping Charges
 
 As a customer, I want to see shipping charges before payment so that I know the total cost of my order.
 
-### US-04 - Payment Method
+### 04 - Payment Method
 
 As a customer, I want to choose my preferred payment method so that I can complete my purchase conveniently.
 
-### US-05 - Payment Retry
+### 05 - Payment Retry
 
 As a customer, I want to retry a failed payment without restarting checkout so that I can complete my purchase.
 
-### US-06 - Order Confirmation
+### 06 - Order Confirmation
 
 As a customer, I want to receive an order confirmation after successful payment so that I know my order has been placed successfully.
 
